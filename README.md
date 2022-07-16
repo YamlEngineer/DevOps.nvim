@@ -44,7 +44,7 @@ LSP & Formatting:
    ```
 3. Move folder
    ```sh
-   cp -r DevOps.nvim ~/.config/nvim/lua/custom
+   mv DevOps.nvim ~/.config/nvim/lua/custom
    ```
 4. Try PackerSync
    ```sh
