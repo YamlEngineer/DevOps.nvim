@@ -11,7 +11,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/NvChad/NvChad)
 
-includes lsp & formatting:
+LSP & Formatting:
 * Terraform
 * Ansible
 * Yaml
@@ -24,7 +24,6 @@ includes lsp & formatting:
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
 ### Prerequisites
 
 * [NvChad](http://github.com/nvchad/nvchad)
