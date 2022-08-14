@@ -6,12 +6,6 @@ local M = {}
 -- example of changing theme:
 
 M.plugins = {
-   options = {
-      lspconfig = {
-         setup_lspconf = "custom.configs.lspconfig",
-      },
-   },
-
    user = require "custom.plugins"
 }
 
