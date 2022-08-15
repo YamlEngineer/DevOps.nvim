@@ -6,7 +6,39 @@ local M = {}
 -- example of changing theme:
 
 M.plugins = {
-   user = require "custom.plugins"
+  override = {
+      ["williamboman/mason.nvim"] = {
+      ensure_installed = {
+        -- lua stuff
+        "lua-language-server",
+        "stylua",
+
+        -- web dev
+        "css-lsp",
+        "html-lsp",
+        "typescript-language-server",
+        "emmet-ls",
+        "json-lsp",
+
+        -- shell
+        "bash-language-server",
+        "shfmt",
+        "shellcheck",
+
+        -- python
+        "pyright",
+        "black",
+
+        -- terraform
+        "terraform-ls",
+
+        -- ansible
+        "ansible-language-server"
+
+      },
+    },
+  },
+  user = require "custom.plugins"
 }
 
 M.mappings = require "custom.configs.mappings"
