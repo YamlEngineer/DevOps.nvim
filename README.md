@@ -21,6 +21,9 @@ LSP & Formatting:
 * HTML
 * CSS
 * Docker
+* TSserver
+* emmet-lsp
+* eslint
 
 <!-- GETTING STARTED -->
 ## Getting Started
