@@ -28,11 +28,7 @@ LSP & Formatting:
 
 * [NvChad](http://github.com/nvchad/nvchad)
 * [NodeJs](http://nodejs.org)
-* [npm](http://npmjs.com)
-* [black](https://pypi.org/project/black/)
-* [shfmt](https://github.com/mvdan/sh)
 * [silicon](https://github.com/Aloxaf/silicon)
-* [prettier](https://prettier.io/)
 
 
 ### Installation
