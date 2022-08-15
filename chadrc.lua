@@ -19,6 +19,7 @@ M.plugins = {
         "typescript-language-server",
         "emmet-ls",
         "json-lsp",
+        "prettier",
 
         -- shell
         "bash-language-server",
