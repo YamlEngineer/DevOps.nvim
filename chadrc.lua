@@ -35,8 +35,10 @@ M.plugins = {
         "terraform-ls",
 
         -- ansible
-        "ansible-language-server"
-
+        "ansible-language-server",
+        
+        -- docker
+        "dockerfile-language-server"
       },
     },
   },
