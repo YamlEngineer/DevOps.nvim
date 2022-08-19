@@ -20,7 +20,7 @@ M.plugins = {
         "emmet-ls",
         "json-lsp",
         "prettier",
-        "eslint-ls",
+        "eslint-lsp",
 
         -- shell
         "bash-language-server",
