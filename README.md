@@ -65,6 +65,6 @@ LSP & Formatting:
 [license-url]: https://github.com/YamlEngineer/DevOps.nvim/blob/main/LICENSE.md
 [telegram-shield]: https://img.shields.io/badge/Telegram-blue.svg?style=for-the-badge&logo=telegram
 [telegram-url]: https://t.me/YamlEngineer
-[product-screenshot]: https://github.com/NvChad/nvchad.github.io/raw/src/static/img/screenshots/main2.png
+[product-screenshot]: https://nvchad.com/screenshots/onedark.webp
 [lua]: https://img.shields.io/badge/Lua-blue.svg?style=for-the-badge&logo=lua
 [lua-url]: https://lua.org/
