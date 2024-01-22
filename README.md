@@ -37,17 +37,9 @@ LSP & Formatting:
 ### Installation
 
 1. Install [NvChad](https://github.com/nvchad/nvchad)
-2. Clone the repo
+2. Add DevOps.nvim Configs
    ```sh
-   git clone https://github.com/YamlEngineer/DevOps.nvim.git
-   ```
-3. Move folder
-   ```sh
-   mv DevOps.nvim ~/.config/nvim/lua/custom
-   ```
-4. Try PackerSync
-   ```sh
-   nvim +MasonInstallAll
+   git clone https://github.com/YamlEngineer/DevOps.nvim.git ~/.config/nvim/lua/custom && nvim +MasonInstallAll
    ```
 
 
